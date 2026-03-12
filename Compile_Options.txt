@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FOUR_BIT_ADDER_TBW_behav" "xil_defaultlib.FOUR_BIT_ADDER_TBW" -log "elaborate.log" 

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mouni/project_1/project_1.srcs/sources_1/new/FOUR_BIT_ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FOUR_BIT_ADDER'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mouni/project_1/project_1.srcs/sources_1/new/FULL_ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FULL_ADDER'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mouni/project_1/project_1.srcs/sources_1/new/HALF_ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'HALF_ADDER'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mouni/project_1/project_1.srcs/sources_1/new/FOUR_BIT_ADDER_TBW.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FOUR_BIT_ADDER_TBW'
